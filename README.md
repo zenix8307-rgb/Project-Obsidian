@@ -23,7 +23,7 @@ An intelligent, autonomous security auditing tool that leverages local LLM (Gemm
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-security-agent.git
+git clone github.com/zenix8307-rgb/Project-Obsidian
 cd ai-security-agent
 ```
 2. **Install dependencies**
