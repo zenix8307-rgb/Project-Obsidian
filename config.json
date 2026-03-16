@@ -1,0 +1,6 @@
+{
+    "tool_timeout": 1800,
+    "max_concurrent_tools": 3,
+    "company_name": "RCC",
+    "report_author": "Inquisitor_rcc"
+}
