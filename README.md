@@ -72,7 +72,7 @@ python main.py scan example.com --quick
 - Check agent status
 - python main.py status
 
-##Advanced Options
+## Advanced Options
 
 - Web-focused scan
 - python main.py scan example.com --web
